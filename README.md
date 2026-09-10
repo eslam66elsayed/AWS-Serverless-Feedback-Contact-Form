@@ -72,7 +72,17 @@ feedback-project/
 └── README.md
 ```
 
+## 📸 Final Result
+
+### Screenshots
+
+| Form Submission | DynamoDB Record | Email Notification |
+|-----------------|-----------------|-------------------|
+| ![Form](images/Screenshot 2026-09-02 212827.png) | ![DynamoDB](images/Screenshot 2026-09-02 214732.png) | ![Email](images/Screenshot 2026-09-02 213658.png) |
+
+
 ---
+
 
 ## 🔄 How It Works
 
