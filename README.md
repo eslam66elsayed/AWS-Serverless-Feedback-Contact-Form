@@ -78,7 +78,7 @@ feedback-project/
 
 | Form Submission | DynamoDB Record | Email Notification |
 |-----------------|-----------------|-------------------|
-| ![Form](images/form-screenshot.png) | ![DynamoDB](images/dynamodb-screenshot.png) | ![Email](images/email-screenshot.png) |
+| ![Form](images/Screenshot2026-09-02212827.png) | ![DynamoDB](images/dynamodb-screenshot.png) | ![Email](images/email-screenshot.png) |
 
 ---
 
